@@ -116,7 +116,7 @@ return [
                 'alias' => 'sso_utility',
                 'arguments' => [
                     'mautic.helper.core_parameters',
-                    'mautic.helper.user',
+                    'mautic.helper.user'
                 ],
             ],
         ],
